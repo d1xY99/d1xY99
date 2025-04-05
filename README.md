@@ -1,4 +1,4 @@
-# I'm Amir :wave:
+# Amir :wave:
 
 <table>
   <tr>
