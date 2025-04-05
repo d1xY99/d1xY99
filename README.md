@@ -1,16 +1,10 @@
-
-[![GitHub Streak](https://github-readme-streak-stats-pearl-gamma.vercel.app?user=d1xY99&theme=dracula)](https://git.io/streak-stats)
-<!--
-**d1xY99/d1xY99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-[![GitHub Streak](https://github-readme-streak-stats-pearl-gamma.vercel.app?user=d1xY99&theme=dracula)](https://git.io/streak-stats)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <img height="200" src="https://github-readme-streak-stats-pearl-gamma.vercel.app?user=d1xY99&theme=dracula" />
+    </td>
+    <td>
+      <img height="250" width"200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1xY99" />
+    </td>
+  </tr>
+</table>
