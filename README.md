@@ -31,7 +31,7 @@
 <div align="center">
   <img 
     width="390" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=d1xY99&theme=transparent&count_private=true&border_radius=10&locale=en&starting_year=2024
+    src="https://github-readme-streak-stats.herokuapp.com/?user=d1xY99&theme=transparent&count_private=true&border_radius=10&locale=en"
     alt="Amir's GitHub Streak" 
   />
 
