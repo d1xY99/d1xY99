@@ -1,4 +1,4 @@
-# Amir :wave:
+# 👋🏻
 
 <div align="center">
   <a href="mailto:basic.amir99@gmail.com">
