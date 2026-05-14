@@ -1,5 +1,5 @@
-# 👋🏻
-
+# Amir 👋🏻
+### Fullstack Developer with a strong interest in system-level programming and cybersecurity
 <div align="center">
   <a href="mailto:basic.amir99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
