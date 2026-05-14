@@ -25,14 +25,12 @@
 ##
 
 
-
 <br>
 
 <div align="center">
   <img 
     width="390" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=d1xY99&theme=transparent&count_private=true&border_radius=10&locale=en"
+    src="https://streak-stats.demolab.com?user=d1xY99&theme=transparent&border_radius=10&locale=en&starting_year=2023" 
     alt="Amir's GitHub Streak" 
   />
-
 </div>
