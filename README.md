@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/@amir-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
-
+##
 <br>
 
 <p align="center">
@@ -22,13 +22,14 @@
   <img src="https://skillicons.dev/icons?i=css,sass,tailwind,js,docker,kubernetes,linux,bash,nginx,aws,githubactions,git,postman,figma" />
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="200" src="https://github-readme-streak-stats-pearl-gamma.vercel.app?user=d1xY99&theme=dracula" />
-    </td>
-    <td>
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1xY99&layout=compact&theme=dracula" />
-    </td>
-  </tr>
-</table>
+##
+
+
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+</div>
