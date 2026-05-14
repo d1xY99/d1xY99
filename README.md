@@ -25,25 +25,8 @@
 ##
 
 
-
-<br>
-
-<div align="center">
-  <img 
-    width="390" 
-    src="https://github-readme-stats.vercel.app/api?username=d1xY99&show_icons=true&theme=dracula" 
-    alt="Amir's GitHub Stats" 
-  />
-
-  <img 
-    width="390" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=d1xY99&theme=dracula" 
-    alt="Amir's GitHub Streak" 
-  />
-
-  <img 
-    width="325" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1xY99&layout=compact&theme=dracula" 
-    alt="Amir's Most Used Languages" 
-  />
-</div>
+<img 
+  width="390" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=d1xY99&theme=dracula&starting_year=2024" 
+  alt="Amir's GitHub Streak" 
+/>
