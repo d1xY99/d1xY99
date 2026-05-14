@@ -22,27 +22,13 @@
   <img src="https://skillicons.dev/icons?i=css,sass,tailwind,js,docker,kubernetes,linux,bash,nginx,aws,githubactions,git,postman,figma" />
 </p>
 
-##
-
-
-<br>
-
-<div align="center">
-  <img 
-    width="390" 
-    src="https://github-readme-stats.vercel.app/api?username=d1xY99&theme=dracula&count_private=true&show_icons=true&rank_icon=github&locale=en" 
-    alt="Amir's GitHub Stats" 
-  />
-
-  <img 
-    width="390" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=d1xY99&theme=dracula&count_private=true&border_radius=10&locale=en" 
-    alt="Amir's GitHub Streak" 
-  />
-
-  <img 
-    width="325" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1xY99&theme=dracula&layout=compact&hide=css&langs_count=8&border_radius=10&locale=en" 
-    alt="Amir's Most Used Languages" 
-  />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img height="200" src="https://github-readme-streak-stats-pearl-gamma.vercel.app?user=d1xY99&theme=dracula" />
+    </td>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1xY99&layout=compact&theme=dracula" />
+    </td>
+  </tr>
+</table>
