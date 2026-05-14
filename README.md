@@ -1,5 +1,16 @@
 # Amir :wave:
 
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,c,cpp,py" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=css,sass,tailwind,js,docker,kubernetes,linux,bash,nginx,aws,githubactions,git,postman,figma,asm" />
+</p>
+
 <table>
   <tr>
     <td>
