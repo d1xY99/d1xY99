@@ -1,6 +1,5 @@
 # Amir :wave:
 
-
 <div align="center">
   <a href="mailto:basic.amir99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -11,7 +10,7 @@
   </a>
 
   <a href="https://amir-basic.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-@amir-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/@amir-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
@@ -20,16 +19,16 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,spring,ts,nodejs,react,nextjs,mongodb,postgres,java" />
   <br />
-  <img src="https://skillicons.dev/icons?i=css,sass,tailwind,js,docker,kubernetes,linux,bash,nginx,aws,githubactions,git,postman,figma,asm" />
+  <img src="https://skillicons.dev/icons?i=css,sass,tailwind,js,docker,kubernetes,linux,bash,nginx,aws,githubactions,git,postman,figma" />
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img height="200" src="https://github-readme-streak-stats-pearl-gamma.vercel.app?user=d1xY99&theme=dracula" />
     </td>
     <td>
-      <img height="250" width"200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1xY99" />
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1xY99&layout=compact&theme=dracula" />
     </td>
   </tr>
 </table>
