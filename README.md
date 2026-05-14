@@ -29,7 +29,7 @@
 
 <div align="center">
   <img 
-    width="390" 
+    width="500" 
     src="https://streak-stats.demolab.com?user=d1xY99&theme=transparent&border_radius=10&locale=en&starting_year=2025" 
     alt="Amir's GitHub Streak" 
   />
